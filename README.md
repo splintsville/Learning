@@ -1,1 +1,2 @@
-# This is my new Learning code space
+# Learning code space
+This is the my GitUp training repository
