@@ -1,2 +1,2 @@
 # Learning code space
-This is the my GitUp training repository
+This is my first GitUp training repository
