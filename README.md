@@ -1,2 +1,5 @@
 # Learning code space
-This is my first GitUp training repository
+This is my first Git Hub training repository
+<br>
+New line added.
+OK
